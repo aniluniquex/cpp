@@ -27,7 +27,7 @@ int main(){
     cout<<"The value of a<b is "<<(a<b)<<endl;//1
     cout<<"The value of a >= b is "<<(a>=b)<<endl;
     cout<<"The value of a <= b is "<<(a<=b)<<endl;
-
+    //Logical operators
     cout<<"The value of this logical and operator ((a==b) && (a<b)) is:"<<((a==b) && (a<b))<<endl;  //0 true and false is false
     cout<<"The value of this logical and operator ((a==b) || (a<b)) is:"<<((a==b) || (a<b))<<endl;  //1 true or false is true
     cout<<"Value of (!(a==b)) is "<<(!(a==b))<<endl; //1
